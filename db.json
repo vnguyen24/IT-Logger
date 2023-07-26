@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2023-07-24T09:33:06.324Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Hard drive failed on work station 002 FIXED",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2023-07-24T13:58:29.110Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2023-07-24T09:39:45.992Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sarah",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Johnson",
+      "id": 5
+    }
+  ]
+}
